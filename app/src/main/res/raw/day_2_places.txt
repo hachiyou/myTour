@@ -1,0 +1,2 @@
+﻿Mandarake Complex] [3-11-12,Sotokanda,Chiyoda- ku,Tokyo] [1200] [2000] [true, true, true, true, true, true, true
+AmiAmi] [1 Chome-15 Sotokanda, Chiyoda-ku, Tōkyō-to 101-0021] [1000] [2000] [true, true, true, true, true, true, true
